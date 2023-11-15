@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699244199 source:f:\programming language\c++\library\library_templite\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<unistd.h>
+
